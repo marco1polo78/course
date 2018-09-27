@@ -8,10 +8,9 @@
     height: 80px;
     display: flex;
     justify-content:space-around;
+    align-items: center;
 }
 
 .note{
     display:flex;
-    align-content: center;
-    justify-content: space-around;
 }
