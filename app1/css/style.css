@@ -1,0 +1,17 @@
+*{
+    margin:0px;
+    padding: 0px;
+}
+
+.notes{
+    width: 100%;
+    height: 80px;
+    display: flex;
+    justify-content:space-around;
+}
+
+.note{
+    display:flex;
+    align-content: center;
+    justify-content: space-around;
+}

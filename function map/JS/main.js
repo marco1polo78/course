@@ -4,10 +4,6 @@ function s(a){
     b=a+4;
     return b;
 }
-// for(var i=0;i<arr.length;i++){
-//     arr[i]=s(arr[i]);
-// }
-// document.write(arr);
 
 function map(fn,array){
     for(var i=0;i<array.length;i++){
