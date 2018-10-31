@@ -3,4 +3,17 @@
         background-color: #2B244D;
         width:100%;
         color:#fff;
+        display:flex;
+        justify-content:space-between;
+        justify-items: center;
+}
+
+.logo{
+        height: 90%;
+}
+
+.third{
+        height: 100%;
+        display:flex;
+        align-items: center;
 }

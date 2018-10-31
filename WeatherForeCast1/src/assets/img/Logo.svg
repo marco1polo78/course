@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 707.626 143.595">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #00ff9b;
+      }
+
+      .cls-2 {
+        fill: #003eff;
+      }
+
+      .cls-3 {
+        fill: #432c85;
+        font-size: 99px;
+        font-family: SegoeUI-Semibold, Segoe UI;
+        font-weight: 600;
+        letter-spacing: 0.1em;
+      }
+    </style>
+  </defs>
+  <g id="Logo" transform="translate(-149.292 -17.159)">
+    <path id="Path_1" data-name="Path 1" class="cls-1" d="M588.076,57.537V-86.058L731.67,57.537Z" transform="translate(-438.783 103.216)"/>
+    <path id="Path_2" data-name="Path 2" class="cls-2" d="M0,143.594V0L143.595,143.594Z" transform="translate(149.292 160.753) rotate(-90)"/>
+    <text id="Minimis" class="cls-3" transform="translate(439.918 130.33)"><tspan x="0" y="0">Minimis</tspan></text>
+  </g>
+</svg>
