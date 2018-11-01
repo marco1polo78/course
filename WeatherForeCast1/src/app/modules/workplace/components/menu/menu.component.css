@@ -1,4 +1,5 @@
 .menu{
+        box-sizing: border-box;
         height: 10vh;
         background-color: #2B244D;
         width:100%;
@@ -8,12 +9,16 @@
         justify-items: center;
 }
 
-.logo{
-        height: 90%;
-}
-
 .third{
         height: 100%;
         display:flex;
         align-items: center;
+}
+
+.logo{
+        height: 50%;
+}
+.menuBurger{
+        height: 30%;
+        margin-right: 30px;
 }
