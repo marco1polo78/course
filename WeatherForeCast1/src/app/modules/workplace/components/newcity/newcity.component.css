@@ -1,0 +1,26 @@
+.newcity{
+    width:100%;
+    height:100%;
+    border-radius:40px;
+    background:linear-gradient(to top,#721C87,#00057A);
+    display:flex;
+    justify-content:space-around;
+    flex-direction:column;
+    color:#fff;
+}
+
+h3{
+    margin:0px auto;
+    font-size:30px;
+    font-weight: 300;
+    margin-top:10px;
+}
+
+.plusIcon{
+    height: 25%;
+}
+
+.city{
+    height:40%;
+    margin-bottom:10px;
+}
